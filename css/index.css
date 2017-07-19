@@ -17,7 +17,7 @@
 
 /* 合并 */
 .m-ntc div,.m-nav,.m-itdc,.g-course .box,.m-ft{width:1200px;margin:0 auto;}
-.logo{font:22px/1 arial,'Hiragino Sans GB';padding-left:82px;background-position:-200px -68px;}
+.logo{font:22px/1 'Hiragino Sans GB',Arial;padding-left:82px;background-position:-200px -68px;}
 
 /* 顶部通知 */
 .m-ntc{width:100%;background:#f3f3f3;}
@@ -29,7 +29,7 @@
 .m-nav .logo,.m-nav .follow,.m-nav .follow div,.m-nav .follow p{float:left;}
 .m-nav .search,.m-nav .nav{float:right;}
 .m-nav{padding:30px 0 37px 0;}
-.m-nav .follow{margin-left:31px;font:12px/20px arial,'SimSun';color:#666;}
+.m-nav .follow{margin-left:31px;font:12px/20px 'SimSun',Arial;color:#666;}
 .m-nav .follow div,.m-nav .follow p{height:21px;margin-top:1px;}
 .m-nav .follow div{width:54px;text-indent:-9999px;background-position:0 -70px;}
 .m-nav .follow div:hover{background-position:-100px -70px;}
@@ -38,7 +38,7 @@
 .m-nav .follow2 div:hover{background-position:-150px -220px;color:#21a557;text-decoration:underline;}
 .m-nav .search{width:18px;height:18px;margin:4px 12px 0 30px;background-position:0 0;}
 .m-nav .search:hover{background-position:0 -210px;}
-.m-nav .nav{font:16px/16px arial,'Hiragino Sans GB';}
+.m-nav .nav{font:16px/16px 'Hiragino Sans GB',Arial;}
 .m-nav .nav li{float:left;margin:6px 0 0 55px;}
 .m-nav .nav a{color:#666;}
 .m-nav .nav a:hover{color:#39a030;}
